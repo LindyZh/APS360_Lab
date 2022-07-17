@@ -26,7 +26,7 @@ You will **train a convolutional neural network** to make classifications on dif
 - Apply transfer learning to improve your model
 
 ### Lab_4
-We will use a variation of a denoising autoencoder to solve this data imputation problem. Our autoencoder will be trained using inputs that have one categorical feature artificially removed, and the goal of the autoencoder is to correctly reconstruct all features, including the one removed from the input. In the process, you are expected to learn to:
+We will use a variation of a **denoising autoencoder** to solve this data imputation problem. Our autoencoder will be trained using inputs that have one categorical feature artificially removed, and the goal of the autoencoder is to correctly reconstruct all features, including the one removed from the input. In the process, you are expected to learn to:
 
 - Clean and process continuous and categorical data for machine learning.
 - Implement an autoencoder that takes continuous and categorical (one-hot) inputs.
@@ -34,7 +34,7 @@ We will use a variation of a denoising autoencoder to solve this data imputation
 - Use baseline models to help interpret model performance.
 
 ### Lab_5
-In this assignment, we will build a recurrent neural network to classify an SMS text message as "spam" or "not spam". In the process, you will
+In this assignment, we will build a **recurrent neural network** to classify an SMS text message as "spam" or "not spam". In the process, you will
 
 - Clean and process text data for machine learning.
 - Understand and implement a character-level recurrent neural network.
